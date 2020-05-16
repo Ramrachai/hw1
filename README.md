@@ -8,6 +8,7 @@
     background-image
     background-repeat
     background-position
+    background-size
     height
     width
     margin
