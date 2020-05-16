@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  background-color: #0c0306;
+  background-color: #030303;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,8 +14,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0px 5px 18px 0px #ffffff26;
   border-radius: 25px;
+  transition: all 1s;
+}
+.box:hover {
+  box-shadow: 0px 5px 18px 0px #ffffff26;
 }
 .box button {
   text-transform: uppercase;
