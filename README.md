@@ -26,7 +26,7 @@
 ##### Selector: 
     tag selector
     class selector
-    pseudo selector
+    pseudo selector:
         normal
         hover
         active
