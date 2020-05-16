@@ -22,3 +22,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+   
+##### Selector: 
+    tag selector
+    class selector
+    pseudo selector:
+        normal
+        hover
+        active
