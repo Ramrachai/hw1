@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  background-color: #0c0306;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background: url("/tree.webp") no-repeat;
+  background-size: cover;
+  height: 50%;
+  width: 40%;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box button {
+  text-transform: uppercase;
+  background: transparent;
+  color: white;
+  border: 1px solid #ffffff;
+  border-radius: 25px;
+  padding: 5px 20px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.5s;
+}
+.box button:hover {
+  background: white;
+  color: black;
+  border: 1px solid black;
+}
+.box button:active {
+  background: rgb(235, 62, 105);
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(235, 62, 105);
+}
