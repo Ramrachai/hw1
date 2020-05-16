@@ -6,7 +6,7 @@ body {
   align-items: center;
 }
 .box {
-  background: url("/tree.webp") no-repeat;
+  background: url("tree.webp") no-repeat;
   background-size: cover;
   height: 50%;
   width: 40%;
